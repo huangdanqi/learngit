@@ -1,4 +1,4 @@
 hhhh
 git is a version control system
-git is free software
-
+git is free softwar
+git has mutable index called stage:ewq
