@@ -3,4 +3,5 @@ git is a version control system
 git is free softwar
 git has mutable index called stage:ewq
 creating a new branch is quick
-creating a new branch is quick & simple
+creating a new branch is quick and simple
+
